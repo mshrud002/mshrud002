@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rudzani
-- 👀 I’m interested in ...
+- 👀 I’m interested in K8S
 - 🌱 I have a passion for Cloud, Kubernetes, EKS, GKE and AKS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mashige.rudzani@gmail.com
