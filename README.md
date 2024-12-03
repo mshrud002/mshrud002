@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mshrud002
+- 👋 Hi, I’m Rudzani
 - 👀 I’m interested in ...
-- 🌱 I have a passion for web and app development 
+- 🌱 I have a passion for Cloud, Kubernetes, EKS, GKE and AKS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mashige.rudzani@gmail.com
 
